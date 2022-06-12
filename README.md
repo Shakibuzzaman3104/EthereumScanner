@@ -1,4 +1,4 @@
-<p style="text-align:center"><span style="font-size:16pt"><span style="font-family:Arial"><span style="color:#000000"><strong>Get started with foldable</strong></span></span></span></p>
+<p style="text-align:center"><span style="font-size:20pt"><span style="font-family:Arial"><span style="color:#000000"><strong>Get started with foldable</strong></span></span></span></p>
 
 <p>&nbsp;</p>
 
