@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EtheriumChecker</string>
+    <string name="label_something_went_wrong">Something went wrong</string>
+    <string name="label_check_balance">Check balance</string>
+    <string name="hint_enter_ethereum_public_key">Enter Ethereum Public Key</string>
+    <string name="message_please_wait">Please Wait</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_search_scan_to_show_balance">Search/Scan to show balance</string>
+    <string name="label_balance">Balance</string>
+</resources>
